@@ -26,7 +26,7 @@ By day 160, approximately 213 individuals remained susceptible, while 1788 had e
 
 The decline in infections occurs because the susceptible population eventually becomes too small to sustain the initial rate of transmission.
 
-![partB_sir](F:\work\projects\2026\26fall\bmi500\hw7\partB_sir.png)
+![partB_sir](partB_sir.png)
 
 ## Part D: SEIR Model with Births and Deaths
 
@@ -57,11 +57,11 @@ The exposed group delays the spread of infection. Births add new susceptible peo
 
 The model uses an average lifespan of 200 days to make the waves easier to observe. With a realistic human lifespan, population changes would be much slower, and later waves would take longer to develop.
 
-![partD_365](F:\work\projects\2026\26fall\bmi500\hw7\partD_365.png)
+![partD_365](partD_365.png)
 
-![partD_1500](F:\work\projects\2026\26fall\bmi500\hw7\partD_1500.png)
+![partD_1500](partD_1500.png)
 
-![partD_waves](F:\work\projects\2026\26fall\bmi500\hw7\partD_waves.png)
+![partD_waves](partD_waves.png)
 
 ## Part E: Sensitivity Analysis
 
@@ -71,9 +71,9 @@ We tested 11 values of β (0.05–0.25 × 10⁻³) and 11 values of γ (0.05–0
 
 ### Results
 
-![partE_peak_heatmap](F:\work\projects\2026\26fall\bmi500\hw7\partE_peak_heatmap.png)
+![partE_peak_heatmap](partE_peak_heatmap.png)
 
-![partE_total_heatmap](F:\work\projects\2026\26fall\bmi500\hw7\partE_total_heatmap.png)
+![partE_total_heatmap](partE_total_heatmap.png)
 
 Both heatmaps show that:
 
